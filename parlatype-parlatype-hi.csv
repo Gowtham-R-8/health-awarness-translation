@@ -1,0 +1,176 @@
+location,source,target,id,fuzzy,context,translator_comments,developer_comments,source_plural_form,target_plural_form,id_hash
+src/libparlatype/pt-window.c:682,Parlatype,Parlatype,,False,,,,,,
+data/parlatype.desktop.in:4,Transcription utility,प्रतिलेखन उपयोगिता,,False,,,,,,
+data/parlatype.desktop.in:6,Transcription;,प्रतिलेखन;,,False,,,"Translators: keyword for desktop entry, semicolon must be preserved right after the keyword",,,
+src/libparlatype/gst/gst-helpers.c:49,Failed to load plugin “%s”.,प्लगइन “%s” लोड करने में विफल।,,False,,,Translators: %s is replaced with the plugins name,,,
+src/libparlatype/resources/help-overlay.ui:52,Skip backward,पीछे जाएं,,False,,,Button accessibility label,,,
+src/libparlatype/resources/audio-controls.ui:66,Play,चलाएं (_P),,True,,,Button accessibility label,,,
+src/libparlatype/resources/help-overlay.ui:59,Skip forward,आगे जाएं,,False,,,Button accessibility label,,,
+src/libparlatype/resources/audio-controls.ui:92,Go to Cursor,कर्सर पर जाएं,,False,,,,,,
+src/libparlatype/resources/goto-dialog.ui:10,Go to…,यहां जाएं…,,False,,,,,,
+src/libparlatype/resources/download-row.ui:19,Download Model,डाउनलोड,,True,,,,,,
+src/libparlatype/resources/config-view.ui:42,General Information,सामान्य जानकारी,,False,,,,,,
+src/libparlatype/resources/config-view.ui:46,Display Name,प्रदर्शन नाम,,False,,,,,,
+src/libparlatype/resources/config-view.ui:70,Installation,स्थापना,,False,,,,,,
+src/libparlatype/resources/config-view.ui:71,How to install this language model.,इस भाषा मॉडल को कैसे स्थापित कर।,,False,,,,,,
+src/libparlatype/resources/config-overview.ui:75,Delete this Configuration,इस विन्यास को मिटाएं,,False,,,,,,
+src/libparlatype/resources/config-overview.ui:79,Delete,मिटाएं,,False,,,,,,
+src/libparlatype/resources/config-view.ui:52,Language,भाषा,,False,,,,,,
+src/libparlatype/resources/config-view.ui:60,Parlatype Plugin,Parlatype,,True,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:22,Follow System Style,सिस्टम शैली का पालन,,False,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:24,Follow system style,सिस्टम शैली का पालन,,False,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:39,Light Style,हल्की शैली,,False,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:41,Light style,हल्की शैली,,False,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:57,Dark Style,गहरी शैली,,False,,,,,,
+src/libparlatype/resources/editor-theme-selector.ui:59,Dark style,गहरी शैली,,False,,,,,,
+src/libparlatype/resources/goto-dialog.ui:20,Go to position:,स्थान पर जाएं:,,False,,,,,,
+src/libparlatype/pt-save-changes-dialog.c:165,_Cancel,रद्द करें (_C),,False,,,,,,
+src/libparlatype/resources/goto-dialog.ui:60,_OK,ठीक है (_O),,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:13,General,सामान्य,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:18,Open a media file,मीडिया फाइल खोलें,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:25,Show/hide main menu,मुख्य मेनू दिखाएं/छिपाएं,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:32,Quit,बंद करें,,False,,,,,,
+src/libparlatype/resources/preferences.ui:9,Waveform,तरंगरूप,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:45,Play/Pause,चलाएं/रोकें,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:66,Zoom in,बडे रूप में दिखाएं,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:73,Zoom out,छोटे रूप में दिखाएं,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:80,Open “Go to” dialog,“यहां जाएं” संवाद खोलें,,False,,,,,,
+src/libparlatype/resources/model-dialog.ui:32,Help,सहायता,,False,,,,,,
+src/libparlatype/resources/help-overlay.ui:93,Show keyboard shortcuts,कीबोर्ड शॉर्टकट दिखाएं,,False,,,,,,
+src/libparlatype/resources/model-dialog.ui:40,Installed Models,स्थापित,,True,,,,,,
+src/libparlatype/resources/model-dialog.ui:45,Not installed Models,स्थापित नहीं है,,True,,,,,,
+src/libparlatype/resources/window.ui:235,Preferences,प्राथमिकताएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:13,Display,प्रदर्शन,,False,,,,,,
+src/libparlatype/resources/preferences.ui:14,Change appearance of the waveform and cursor movement.,तरंगरूप और कर्सर गति का स्वरूप बदलें।,,False,,,,,,
+src/libparlatype/resources/preferences.ui:17,Waveform Detail,तरंगरूप विवरण,,False,,,,,,
+src/libparlatype/resources/preferences.ui:18,Vertical lines per second,प्रति सेकंड ऊर्ध्वाधर रेखाएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:51,Show Time Scale,समय पैमाना दिखाएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:56,Cursor Mode,कर्सर मोड,,False,,,,,,
+src/libparlatype/resources/preferences.ui:60,Fixed Cursor,स्थिर कर्सर,,False,,,,,,
+src/libparlatype/resources/preferences.ui:61,Moving Cursor,गतिशील कर्सर,,False,,,,,,
+src/libparlatype/resources/preferences.ui:74,Audio Controls,ऑडियो नियंत्रण,,False,,,,,,
+src/libparlatype/resources/preferences.ui:78,Pause and Skip Buttons,*रोकें और छोड़ें* बटन,,False,,,,,,
+src/libparlatype/resources/preferences.ui:79,Set amount of time to skip in seconds.,छोड़ने के लिए समय की मात्रा सेकंड में निर्धारित करें।,,False,,,,,,
+src/libparlatype/resources/preferences.ui:82,Rewind on Pause,विराम पर रिवाइंड करें,,False,,,,,,
+src/libparlatype/resources/preferences.ui:83,Set to zero to disable this feature,इस सुविधा को अक्षम करने के लिए इसे शून्य पर निर्धारित करें,,False,,,,,,
+src/libparlatype/resources/preferences.ui:96,Skip Backward,पीछे जाएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:109,Skip Forward,आगे जाएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:124,Play Button,*चलाएं* बटन,,False,,,,,,
+src/libparlatype/resources/preferences.ui:125,Change behavior of play button.,*चलाएं* बटन का व्यवहार बदलें।,,False,,,,,,
+src/libparlatype/resources/preferences.ui:128,At End of File Replay File,फाइल के अंत में फाइल पुनः चलाएं,,False,,,,,,
+src/libparlatype/resources/preferences.ui:133,At End of Selection Replay Selection,चयन के अंत में चयन को फिर से चलाएं,,False,,,,,,
+src/libparlatype/resources/prefs-install-row.ui:11,Choose folder,फोल्डर चुनें,,False,,,,,,
+src/libparlatype/resources/transcription-bar.ui:31,No options available,,,False,,,"This plugin is not configurable, it has no options",,,
+src/libparlatype/resources/window.ui:21,Toggle Sidebar,,,False,,,Tooltip for a button which toggles a sidebar,,,
+src/libparlatype/resources/window.ui:62,Main Menu,मुख्य मेनू,,False,,,Tooltip for a button showing the main menu,,,
+src/libparlatype/resources/window.ui:90,Audio File,ऑडियो फाइलें,,True,,,,,,
+src/libparlatype/resources/window.ui:91,Drag in or open an audio file.,,,False,,,,,,
+src/libparlatype/resources/window.ui:94,_Open,खोलें (_O),,False,,,,,,
+src/libparlatype/resources/window.ui:98,Open a file,फाइल खोलें,,False,,,,,,
+src/libparlatype/resources/window.ui:162,Show Timestamps,टाइमस्टैम्प,,True,,,,,,
+src/libparlatype/resources/window.ui:209,Open Document,,,False,,,,,,
+src/libparlatype/resources/window.ui:213,Associate Audio,,,False,,,,,,
+src/libparlatype/resources/window.ui:219,Save,,,False,,,,,,
+src/libparlatype/resources/window.ui:223,Save as…,,,False,,,,,,
+src/libparlatype/resources/window.ui:229,Transcribe…,,,False,,,,,,
+src/libparlatype/resources/window.ui:239,_Keyboard Shortcuts,कीबोर्ड शॉर्टकट (_K),,False,,,,,,
+src/libparlatype/resources/window.ui:243,About Parlatype,Parlatype के बारे में,,False,,,,,,
+src/libparlatype/pt-app.c:56,Show the application’s version,अनुप्रयोग का संस्करण दिखाएं,,False,,,,,,
+src/libparlatype/pt-app.c:127,Open Audio File,ऑडियो फाइल खोलें,,False,,,Translators: title of a file dialog which opens audio files,,,
+src/libparlatype/pt-app.c:133,Open Parlatype File,फाइल खोलें,,True,,,Translators: title of a file dialog which opens files known by Parlatype,,,
+src/libparlatype/pt-app.c:338,Code from other projects,अन्य परियोजनाओं से कोड,,False,,,,,,
+src/libparlatype/pt-app.c:342,A basic transcription utility,एक बुनियादी प्रतिलेखन उपयोगिता,,False,,,,,,
+src/libparlatype/pt-app.c:349,translator-credits,"Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024",,False,,,,,,
+src/libparlatype/pt-app.c:491,"Warning: Parlatype handles only one file at a time. The other files are ignored.
+","चेतावनी: Parlatype एक समय में केवल एक फाइल को संभालता है। अन्य फाइलों को अनदेखा कर दिया जाता है।
+",,False,,,,,,
+src/libparlatype/pt-audio-controls.c:76,Skip back %d seconds,1 सेकंड पीछे जाएं,,False,,,Translators: tooltip for a button,1,0,0xf70875e43b5e6ddc
+src/libparlatype/pt-audio-controls.c:76,Skip back %d seconds,'%d सेकंड पीछे जाएं',,False,,,Translators: tooltip for a button,1,1,0xf70875e43b5e6ddc
+src/libparlatype/pt-audio-controls.c:97,Skip forward %d seconds,1 सेकंड आगे जाएं,,False,,,Translators: tooltip for a button,1,0,0xb48df1a5d064ba9f
+src/libparlatype/pt-audio-controls.c:97,Skip forward %d seconds,'%d सेकंड आगे जाएं',,False,,,Translators: tooltip for a button,1,1,0xb48df1a5d064ba9f
+src/libparlatype/pt-audio-controls.c:122,Start playing,चलाना शुरू करें,,False,,,Translators: tooltip for play button,,,
+src/libparlatype/pt-audio-controls.c:130,Pause,रोकें,,False,,,Translators: tooltip for pause button,,,
+src/libparlatype/pt-audio-controls.c:136,Pause and rewind %d seconds,रोकें और 1 सेकंड पीछे जाएं,,False,,,Translators: tooltip for pause button,1,0,0x54cb84d381d93d7a
+src/libparlatype/pt-audio-controls.c:136,Pause and rewind %d seconds,रोकें और %d सेकंड पीछे जाएं,,False,,,Translators: tooltip for pause button,1,1,0x54cb84d381d93d7a
+src/libparlatype/pt-config.c:530,Plugin doesn’t have a parameter “%s”.,प्लगइन में कोई पैरामीटर “%s” नहीं है।,,False,,,Translators: %s is replaced with the parameter’s name,,,
+src/libparlatype/pt-config.c:540,Parameter “%s” is not writable.,पैरामीटर “%s” लिखने योग्य नहीं है।,,False,,,Translators: %s is replaced with the parameter’s name,,,
+src/libparlatype/pt-config.c:554,Value for parameter “%s” is not valid.,पैरामीटर “%s” का मान मान्य नहीं है।,,False,,,Translators: %s is replaced with the parameter’s name,,,
+src/libparlatype/pt-config.c:762,The plugin “%s” could not be loaded.,,,False,,,Translators: %s is replaced with the plugin’s name,,,
+src/libparlatype/pt-config.c:1182,Multilingual,,,False,,,,,,
+src/libparlatype/pt-config-view.c:135,Link,लिंक,,False,,,Translators: Fallback label for a download location,,,
+src/libparlatype/pt-config-view.c:210,'%d seconds left',सेकंड,,True,,,Remaining time to download an item in seconds,1,0,0x0c2aff0f0ba74157
+src/libparlatype/pt-config-view.c:210,'%d seconds left',सेकंड,,True,,,Remaining time to download an item in seconds,1,1,0x0c2aff0f0ba74157
+src/libparlatype/pt-config-view.c:218,'%d minutes left',,,False,,,Remaining time to download an item in minutes,1,0,0x0ae0b28c9077c547
+src/libparlatype/pt-config-view.c:218,'%d minutes left',,,False,,,Remaining time to download an item in minutes,1,1,0x0ae0b28c9077c547
+src/libparlatype/pt-config-view.c:226,'%d hours left',,,False,,,Remaining time to download an item in hours,1,0,0x13bdb1e9304f3f55
+src/libparlatype/pt-config-view.c:226,'%d hours left',,,False,,,Remaining time to download an item in hours,1,1,0x13bdb1e9304f3f55
+src/libparlatype/pt-window.c:102,Error,त्रुटि,,False,,,,,,
+src/libparlatype/pt-config-view.c:453,Publisher,प्रकाशक,,False,,,,,,
+src/libparlatype/pt-config-view.c:458,License,लाइसेंस,,False,,,,,,
+src/libparlatype/pt-config-view.c:478,Download,डाउनलोड,,False,,,,,,
+src/libparlatype/pt-file-loader.c:331,Not a regular file,,,False,,,,,,
+src/libparlatype/pt-file-loader.c:343,Error opening file,,,False,,,,,,
+src/libparlatype/pt-file-loader.c:387,Error reading file,,,False,,,,,,
+src/libparlatype/pt-file-saver.c:53,Error saving document.,,,False,,,We don’t have meaningful error messages and fail on every error.,,,
+src/libparlatype/pt-waveviewer-ruler.c:222,'%d:%02d:%02d','%d:%02d:%02d',,False,long time format,,"Translators: This is a time format, like ""2:05:30"" for 2
+hours, 5 minutes, and 30 seconds. You may change "":"" to
+the separator that your locale uses or use ""%Id"" instead
+of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-goto-dialog.c:87,seconds,सेकंड,,False,,,,1,0,0x80a200636572f1a7
+src/libparlatype/pt-goto-dialog.c:87,seconds,सेकंड,,False,,,,1,1,0x80a200636572f1a7
+src/libparlatype/pt-prefs-install-row.c:67,Installed,स्थापित,,False,,,,,,
+src/libparlatype/pt-prefs-install-row.c:72,Not Installed,अस्थापित,,False,,,,,,
+src/libparlatype/pt-prefs-install-row.c:73,Download files and select model folder.,फाइलें डाउनलोड करें और मॉडल फोल्डर का चयन करें।,,False,,,,,,
+src/libparlatype/pt-prefs-install-row.c:127,Model Data Not Found,मॉडल डेटा नहीं मिला,,False,,,,,,
+src/libparlatype/pt-prefs-install-row.c:129,The chosen folder does not contain data for this configuration.,चुने गए फोल्डर में इस विन्यास के लिए डेटा नहीं है।,,False,,,,,,
+src/libparlatype/pt-prefs-install-row.c:148,Select Model Folder,मॉडल फोल्डर चुनें,,False,,,,,,
+src/libparlatype/pt-window.c:343,Save as,,,False,,,,,,
+src/libparlatype/pt-save-changes-dialog.c:160,Save Changes?,,,False,,,,,,
+src/libparlatype/pt-save-changes-dialog.c:161,Open documents contain unsaved changes. Changes which are not saved will be permanently lost.,,,False,,,,,,
+src/libparlatype/pt-save-changes-dialog.c:166,_Discard,,,False,,,,,,
+src/libparlatype/pt-save-changes-dialog.c:167,_Save,,,False,,,,,,
+src/libparlatype/pt-timestamp.c:84,'%d:%02d:%02d.%d','%d:%02d:%02d.%d',,False,"long time format, 1 digit",,"Translators: This is a time format, like ""2:05:30.1"" for 2
+hours, 5 minutes, 30 seconds, and 1 tenthsecond. You may
+change "":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:91,'%d:%02d:%02d.%02d','%d:%02d:%02d.%02d',,False,"long time format, 2 digits",,"Translators: This is a time format, like ""2:05:30.12"" for 2
+hours, 5 minutes, 30 seconds, and 12 hundrethseconds. You may
+change "":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:110,'%02d:%02d','%02d:%02d',,False,short time format,,"Translators: This is a time format, like ""05:30"" for
+5 minutes, and 30 seconds. You may change "":"" to
+the separator that your locale uses or use ""%I02d"" instead
+of ""%02d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:117,'%02d:%02d.%d','%02d:%02d.%d',,False,"short time format, 1 digit",,"Translators: This is a time format, like ""05:30.1"" for
+5 minutes, 30 seconds, and 1 tenthsecond. You may change
+"":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:124,'%02d:%02d.%02d','%02d:%02d.%02d',,False,"short time format, 2 digits",,"Translators: This is a time format, like ""05:30.12"" for
+5 minutes, 30 seconds, and 12 hundrethseconds. You may change
+"":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-waveviewer-ruler.c:224,'%d:%02d','%d:%02d',,False,shortest time format,,"Translators: This is a time format, like ""5:30"" for
+5 minutes, and 30 seconds. You may change "":"" to
+the separator that your locale uses or use ""%Id"" instead
+of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:147,'%d:%02d.%d','%d:%02d.%d',,False,"shortest time format, 1 digit",,"Translators: This is a time format, like ""05:30.1"" for
+5 minutes, 30 seconds, and 1 tenthsecond. You may change
+"":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-timestamp.c:154,'%d:%02d.%02d','%d:%02d.%02d',,False,"shortest time format, 2 digits",,"Translators: This is a time format, like ""05:30.12"" for
+5 minutes, 30 seconds, and 12 hundrethseconds. You may change
+"":"" or ""."" to the separator that your locale uses or
+use ""%Id"" instead of ""%d"" if your locale uses localized digits.",,,
+src/libparlatype/pt-utils.c:54,All Files,सभी फाइलें,,False,,,Translators: label for a file filter showing all files,,,
+src/libparlatype/pt-utils.c:59,Audio Files,ऑडियो फाइलें,,False,,,Translators: label for a file filter showing only audio files,,,
+src/libparlatype/pt-utils.c:64,Parlatype Files,Parlatype,,True,,,Translators: label for a file filter showing only Parlatype’ own files (extension .pt),,,
+src/libparlatype/pt-utils.c:69,Flat XML ODF Text Documents,,,False,,,"Translators: label for a file filter showing only this kind of documents, available in LibreOffice file dialogs",,,
+src/libparlatype/pt-utils.c:101,Unknown,,,False,,,Translators: unknown download size,,,
+src/libparlatype/pt-utils.c:107,'%d KB',,,False,,,,,,
+src/libparlatype/pt-utils.c:110,'%d MB',,,False,,,,,,
+src/libparlatype/pt-utils.c:112,'%.1f GB',,,False,,,,,,
+src/libparlatype/pt-waveloader.c:512,Waveloader has outstanding operation.,Waveloader में कुछ कार्य लंबित हैं।,,False,,,,,,
+src/libparlatype/pt-waveloader.c:528,Failed to setup GStreamer pipeline.,GStreamer पाइपलाइन स्थापित करने में विफल।,,False,,,,,,
+src/libparlatype/pt-waveviewer.c:961,URI not valid: %s,URI मान्य नहीं है: %s,,False,,,Translators: %s is a detailed error message.,,,
+src/libparlatype/pt-waveviewer.c:973,File not found: %s,फाइल नहीं मिली: %s,,False,,,Translators: %s is a detailed error message.,,,
+src/libparlatype/pt-window.c:527,Error Downloading »%s«,,,False,,,Translators: Title of an error message while downloading an item. %s is replaced with the item’s name.,,,
